@@ -1,0 +1,20 @@
+{
+  "name": "redis_tweetdata",
+  "version": "1.0.0",
+  "description": "Queries showing the usage of Redis on tweet data along with Mongo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.11.0",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.2"
+  }
+}
